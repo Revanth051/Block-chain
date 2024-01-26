@@ -1,7 +1,5 @@
 Blockchain-Enabled Blood Donation System
 
-Overview
-
 Key aspects:
 
 Donor information like name, location, blood group, donation history stored securely on blockchain
